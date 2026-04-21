@@ -155,12 +155,12 @@ To generate a high-performance, minified build:
 ```bash
 npm run build
 ```
-
----
-
 ---
 
 ## 👤 Author
+![Maintained](https://img.shields.io/badge/Maintained%3F-yes-emerald.svg)
+![Build](https://img.shields.io/badge/Build-Passing-emerald.svg)
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-cyan.svg)
 
 <table style="width: 100%; border: none;">
   <tr>
