@@ -38,7 +38,7 @@ const About = () => {
 		 
 		 <div className="sub-content">
 			<p>
-			 Every cocktail we serve is a reflection of our obsession with detail — from the first muddle to the final garnish. That care is what turns a simple drink into something truly memorable.
+			"Beyond the spirit. Discover a curated collection of non-alcoholic masterpieces, balanced for the sophisticated palate."
 			</p>
 			
 			<div>

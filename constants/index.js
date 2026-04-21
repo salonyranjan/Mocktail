@@ -1,23 +1,11 @@
-const navLinks = [
- {
-	id: "cocktails",
-	title: "Cocktails",
- },
- { id: "mocktails", title: "Mocktails" },
- {
-	id: "about",
-	title: "About Us",
- },
- {
-   id: "art",
-   title: "The Art",
-},
- {
-	id: "contact",
-	title: "Contact",
- },
+ const navLinks = [
+  { id: "menu", title: "The Menu" },
+   { id: "cocktails", title: "Cocktails",},
+  { id: "mocktails", title: "Mocktails" },
+  { id: "about", title: "Our Story" },
+  { id: "art", title: "The Art" },
+  { id: "contact", title: "Contact us" },
 ];
-
 const cocktailLists = [
   {
     name: "Chapel Hill Shiraz",
@@ -121,17 +109,17 @@ const socials = [
  {
 	name: "Instagram",
 	icon: "/images/insta.png",
-	url: "#",
+	url: "https://www.linkedin.com/in/salony-ranjan-b63200280/",
  },
  {
 	name: "X (Twitter)",
 	icon: "/images/x.png",
-	url: "#",
+	url: "https://www.linkedin.com/in/salony-ranjan-b63200280/",
  },
  {
 	name: "Facebook",
 	icon: "/images/fb.png",
-	url: "#",
+	url: "https://www.linkedin.com/in/salony-ranjan-b63200280/",
  },
 ];
 
