@@ -1,5 +1,6 @@
 # Mocktail 🍹 
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-mocktail--seven.vercel.app-emerald?style=for-the-badge&logo=vercel&logoColor=white)](https://mocktail-seven.vercel.app)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)](https://greensock.com/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
@@ -9,6 +10,12 @@
 A high-end, immersive digital experience showcasing the art of modern mixology...
 
 ![Mocktail Banner](https://raw.githubusercontent.com/salonyranjan/Mocktail/main/public/images/preview.png) 
+
+---
+
+## 🔗 Live Experience
+
+Experience the cinematic interface live at:  👉 **[mocktail-seven.vercel.app](https://mocktail-seven.vercel.app)**
 
 ---
 
