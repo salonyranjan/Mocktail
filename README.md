@@ -124,17 +124,17 @@ VertexFlow is engineered to bridge high-end visuals with functional web interfac
 ### 📚 Zero Proof Library — *The Menu*
 
 <div align="center">
-  <img src="./public/images/menu1.png" width="400" alt="Zero Proof Library — Botanical"/>
+  <img src="./screen/menu1.png" width="400" alt="Zero Proof Library — Botanical"/>
   <p><i>Botanical category — earthy, herb-forward zero-proof drinks.</i></p>
 </div>
 
 <div align="center">
-  <img src="./public/images/menu2.png" width="400" alt="Zero Proof Library — Citrus"/>
+  <img src="./screen/menu2.png" width="400" alt="Zero Proof Library — Citrus"/>
   <p><i>Citrus category — bright, tart, and sun-kissed blends.</i></p>
 </div>
 
 <div align="center">
-  <img src="./public/images/menu3.png" width="400" alt="Zero Proof Library — Velvet"/>
+  <img src="./screen/menu3.png" width="400" alt="Zero Proof Library — Velvet"/>
   <p><i>Velvet category — rich, smooth, dessert-inspired mocktails.</i></p>
 </div>
 
