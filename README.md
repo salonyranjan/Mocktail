@@ -177,12 +177,12 @@ VertexFlow is engineered to bridge high-end visuals with functional web interfac
 ### ✨ Featured Mocktails — *Close-Up Detail*
 
 <div align="center">
-  <img src="./public/images/stacks1.png" width="400" alt="Mocktail Feature Detail 1"/>
+  <img src="./screen/featured.png" width="400" alt="Mocktail Feature Detail 1"/>
   <p><i>GSAP-orchestrated timelines reveal product detail on scroll entry.</i></p>
 </div>
 
 <div align="center">
-  <img src="./public/images/stacks2.png" width="400" alt="Mocktail Feature Detail 2"/>
+  <img src="./screen/featured1.png" width="400" alt="Mocktail Feature Detail 2"/>
   <p><i>Multi-layered radial glows amplify the neon cocktail photography.</i></p>
 </div>
 
@@ -198,7 +198,7 @@ VertexFlow is engineered to bridge high-end visuals with functional web interfac
 ### 📍 Cinematic Contact — *Glassmorphic Close*
 
 <div align="center">
-  <img src="./public/images/contact.png" width="400" alt="Mocktail Contact Form"/>
+  <img src="./screen/contact.png" width="400" alt="Mocktail Contact Form"/>
   <p><i>Glassmorphic UI design optimized for high-conversion and sleek interaction.</i></p>
 </div>
 
