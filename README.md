@@ -113,7 +113,7 @@ VertexFlow is engineered to bridge high-end visuals with functional web interfac
 ### 🏠 Immersive Hero Scene
 
 <div align="center">
-  <img src="./public/images/hero.png" width="400" alt="Mocktail Hero Section"/>
+  <img src="./screen/hero1.png" width="400" alt="Mocktail Hero Section"/>
   <p><i>Real-time GSAP SplitText reveal — characters animate in staggered editorial waves.</i></p>
 </div>
 
