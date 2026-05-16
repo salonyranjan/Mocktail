@@ -124,17 +124,17 @@ VertexFlow is engineered to bridge high-end visuals with functional web interfac
 ### 📚 Zero Proof Library — *The Menu*
 
 <div align="center">
-  <img src="./screen/menu1.png" width="400" alt="Zero Proof Library — Botanical"/>
+  <img src="./screen/detail1.png" width="400" alt="Zero Proof Library — Botanical"/>
   <p><i>Botanical category — earthy, herb-forward zero-proof drinks.</i></p>
 </div>
 
 <div align="center">
-  <img src="./screen/menu2.png" width="400" alt="Zero Proof Library — Citrus"/>
+  <img src="./screen/detail2.png" width="400" alt="Zero Proof Library — Citrus"/>
   <p><i>Citrus category — bright, tart, and sun-kissed blends.</i></p>
 </div>
 
 <div align="center">
-  <img src="./screen/menu3.png" width="400" alt="Zero Proof Library — Velvet"/>
+  <img src="./screen/detail3.png" width="400" alt="Zero Proof Library — Velvet"/>
   <p><i>Velvet category — rich, smooth, dessert-inspired mocktails.</i></p>
 </div>
 
@@ -145,12 +145,12 @@ VertexFlow is engineered to bridge high-end visuals with functional web interfac
 ### 🍹 Mocktails Showcase — *Interactive Product Cards*
 
 <div align="center">
-  <img src="./public/images/cards1.png" width="400" alt="Mocktail Product Cards"/>
+  <img src="./screen/pc1.png" width="400" alt="Mocktail Product Cards"/>
   <p><i>GSAP-staggered scroll reveal — cards enter with depth and timing.</i></p>
 </div>
 
 <div align="center">
-  <img src="./public/images/cards2.png" width="400" alt="Mocktail Product Cards Detail"/>
+  <img src="./screen/pc2.png" width="400" alt="Mocktail Product Cards Detail"/>
   <p><i>Each card: image, name, flavour profile tags, and description — all data-driven.</i></p>
 </div>
 
@@ -161,12 +161,12 @@ VertexFlow is engineered to bridge high-end visuals with functional web interfac
 ### 🖱️ Intelligent Hover System — *Cursor-Follow Reveal*
 
 <div align="center">
-  <img src="./public/images/hover1.png" width="400" alt="Hover Preview — Active State"/>
+  <img src="./screen/menu1.png" width="400" alt="Hover Preview — Active State"/>
   <p><i>Active state — image preview follows cursor with organic lag.</i></p>
 </div>
 
 <div align="center">
-  <img src="./public/images/hover2.png" width="400" alt="Hover Preview — Idle State"/>
+  <img src="./screen/menu2.png" width="400" alt="Hover Preview — Idle State"/>
   <p><i>Idle state — preview gracefully fades and resets position.</i></p>
 </div>
 
