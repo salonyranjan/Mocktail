@@ -187,7 +187,7 @@ VertexFlow is engineered to bridge high-end visuals with functional web interfac
 </div>
 
 <div align="center">
-  <img src="./public/images/stacks3.png" width="400" alt="Mocktail Feature Detail 3"/>
+  <img src="./screen/menu1.png" width="400" alt="Mocktail Feature Detail 3"/>
   <p><i>Custom SVG fractal noise texture adds cinematic depth to every section.</i></p>
 </div>
 
